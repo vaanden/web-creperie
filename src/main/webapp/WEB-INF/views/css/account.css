@@ -1,0 +1,26 @@
+.mainDiv
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    border: solid 1px;
+}
+
+#mydiv1
+{
+    margin-top: 5%;  
+    margin-bottom: 7%;
+    width: 100%;
+    font-size: 22px;
+}
+
+#info_user, td
+{
+    width: 40%;
+}
+
+#account_btn_container
+{
+    margin-top: 2%;
+    width: 100%;
+}

@@ -1,0 +1,57 @@
+footer
+{
+/*    position: relative;
+    bottom: 0;*/
+    width: 100%;
+    margin-top: 2%;
+    padding-bottom: 3%;
+    background-color: #EEEEEE;
+    color: #999999;
+}
+
+#footer_main_div
+{
+    font-size: 18px;
+    width: 100%;
+}
+
+#a_propos
+{
+    position: relative;
+    margin-right: 2%;
+    left: 35%;
+    display: inline-block;
+    text-align: left;
+}
+
+#contact
+{
+    position: relative;
+    margin-right: 2%;
+    left: 35%;
+    display: inline-block;
+    text-align: left;
+}
+
+ul
+{
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+}
+
+a, a:visited
+{
+    color: #999999;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #999999;
+}
+
+img
+{
+    margin-bottom: 5%;    
+}
