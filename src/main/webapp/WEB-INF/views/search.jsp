@@ -20,13 +20,14 @@
 <body>
 
 	<p>ReviewsProject Basic search</p>
+	<form method="get" action="/SpringMVCHibernate/search">
 		<div class="searchbar">
 			<input id="searchTxt" name='searchText' class="form-control"
 				placeholder="Produit, film, album" /> <span class="input-group-btn">
 				<input id="searchButton" class="btn btn-default" type="submit"
 				value="Chercher" />
 		</div>
-
+	</form>
 
 
 </body>

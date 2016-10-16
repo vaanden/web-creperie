@@ -15,6 +15,19 @@
 		<hibernate.version>4.3.5.Final</hibernate.version>
 	</properties>
 	<dependencies>
+		<!-- https://mvnrepository.com/artifact/joda-time/joda-time -->
+		<dependency>
+			<groupId>joda-time</groupId>
+			<artifactId>joda-time</artifactId>
+			<version>2.9.4</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/commons-codec/commons-codec -->
+		<dependency>
+			<groupId>commons-codec</groupId>
+			<artifactId>commons-codec</artifactId>
+			<version>1.10</version>
+		</dependency>
+
 		<!-- https://mvnrepository.com/artifact/javax.xml.rpc/javax.xml.rpc-api -->
 		<dependency>
 			<groupId>javax.xml.rpc</groupId>
